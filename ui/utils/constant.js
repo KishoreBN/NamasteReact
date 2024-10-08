@@ -1,0 +1,15 @@
+export const CLOUDANARY_URL= "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/";
+export const TOP_RESTAURANTS_IN_BANGALORE = "Restaurants with online food delivery in Bangalore";
+export const ON_APPLICATION_LOAD_URL = "http://localhost:8080/onloadData";
+export const RESTAURANT_UPDATE_URL = "http://localhost:8080/dapi/restaurants/list/update";
+export const LOCATION_SEARCH_URL = "http://localhost:8080/dapi/misc/place-autocomplete";
+export const GET_LOCATION_COORDINATES = "http://localhost:8080/dapi/misc/address-recommend";
+export const GET_RESTAURANT_MENU_BY_ID = "http://localhost:8080/dapi/menu/pl";
+export const GET_RESTAURANT_SIBLING = "http://localhost:8080/dapi/menu/api/v1/json/layout-section/MENU_MULTI_OUTLET";
+export const GET_RESTAURANT_SEARCH = "http://localhost:8080/dapi/menu/pl/search";
+export const GET_SEARCH_PRESEARCH = "http://localhost:8080/dapi/landing/PRE_SEARCH";
+export const GET_SEARCH_RESULT = "http://localhost:8080/dapi/restaurants/search/v3";
+export const ADD_ITEM_TO_CART = "http://localhost:8080/dapi/cart";
+export const GET_CART_ITEMS = "http://localhost:8080/dapi/cart";
+export const DEFAULT_BANGALORE_LATITUDE = "13.052706";
+export const DEFAULT_BANGALORE_LONGITUDE = "77.4954875";
